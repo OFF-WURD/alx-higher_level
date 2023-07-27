@@ -1,7 +1,7 @@
 # 0x12. Javascript - Warm up
 
 ## Description
-The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
+The main objective of this repository is to get myself familar with javascript synthax and usage
 
 ## Table of contents
 Files | Description
